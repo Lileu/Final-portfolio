@@ -1,7 +1,6 @@
-# Updated-Portfolio-Page
-Week 9 Homework
+# Final-portfolio
+Week 18 project
 
-https://lileu.github.io/Updated-Portfolio-Page/
 
 ## Featured Portfolios
 * https://lileu.github.io/GifTastic/
